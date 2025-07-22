@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @PS1906
-- 👀 I’m interested in Python, SQL, Excel and Tableau
-- 🌱 I’m currently learning Python, SQL, Excel and Tableau
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me philipp.schauer351@googlemail.com
-- ⚡ Fun fact: I can eat a whole pizza in 1 hour
+- 👋 Hi, ich bin Philipp Schauer – leidenschaftlicher BI-Analyst aus Bayern.
+- 👀 Interessen: Datenpipelines mit Python & SQL, Dashboards in Tableau & Power BI, automatisierte Reports in Excel.
+- 🌱 Aktuell vertiefe ich mein Wissen in Visualisierungen mit PowerBI.
+- 💞️ Ich suche Co-Founders oder Teams, um datengetriebene Reporting-Pipelines zu bauen.
+- 📫 Kontaktiere mich: philipp.schauer351@googlemail.com | [Portfolio](https://your-portfolio-url)
+- ⚡ Fun fact: Ich habe einmal aus Versehen mit Python eine 10-GB-Datei in 10 Sekunden eingelesen
 
 <!---
 PS1906/PS1906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
