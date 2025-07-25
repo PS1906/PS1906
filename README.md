@@ -2,7 +2,7 @@
 - 👀 Interessen: Datenpipelines mit Python & SQL, Dashboards in Tableau & Power BI, automatisierte Reports in Excel.
 - 🌱 Aktuell vertiefe ich mein Wissen in Visualisierungen mit PowerBI.
 - 💞️ Ich suche Co-Founders oder Teams, um datengetriebene Reporting-Pipelines zu bauen.
-- 📫 Kontaktiere mich: philipp.schauer351@googlemail.com | [Portfolio](https://your-portfolio-url)
+- 📫 Kontaktiere mich: philipp.schauer351@googlemail.com | [Portfolio](https://datavision-schauer.de)
 - ⚡ Fun fact: Ich habe einmal aus Versehen mit Python eine 10-GB-Datei in 10 Sekunden eingelesen
 
 <!---
